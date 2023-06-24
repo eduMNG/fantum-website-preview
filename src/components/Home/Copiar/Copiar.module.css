@@ -1,0 +1,11 @@
+.root {
+  position: absolute;
+  left: 47.843%;
+  right: 47.2537%;
+  top: calc(50% - 457px);
+  height: 46px;
+  border-radius: 6px;
+  background-color: #e5a11c33;
+  box-shadow: 0px 4px 5px 0px #00000040;
+  transform: translateY(-50%);
+}

@@ -1,0 +1,396 @@
+.root {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  align-items: flex-start;
+  background-color: #121212;
+}
+.rectangle5 {
+  position: absolute;
+  left: -3px;
+  top: 0;
+  width: 1924px;
+  height: 1082px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle5.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gradient {
+  position: absolute;
+  left: calc(50% - -0.3882px);
+  bottom: -0.4865px;
+  width: 1920px;
+  height: 365px;
+  background-image: linear-gradient(0deg, #121212ff 0%, #121212b2 50%, #12121200 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  transform: translateX(-50%);
+}
+.gradient2 {
+  position: absolute;
+  left: calc(50% - -0.3882px);
+  bottom: -0.4865px;
+  width: 1920px;
+  height: 365px;
+  background-image: linear-gradient(0deg, #121212ff 0%, #121212b2 50%, #12121200 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  transform: translateX(-50%);
+}
+.gradient3 {
+  transform-origin: top left;
+  position: absolute;
+  left: 50%;
+  bottom: 297.0002px;
+  width: 1920px;
+  height: 390.9998px;
+  background-image: linear-gradient(0deg, #121212ff 0%, #121212b2 50%, #12121200 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  transform: matrix(-1, 0, 0, -1, 0, 0) translateX(-50%);
+}
+.twitter {
+  position: absolute;
+  left: 25.5208%;
+  right: 60.2375%;
+  top: 898px;
+  height: 77px;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: #4747474d;
+  backdrop-filter: blur(5px);
+}
+.text {
+  position: absolute;
+  left: 30.2521%;
+  right: 35.99%;
+  top: calc(50% - -0.5px);
+  height: 36px;
+  align-items: flex-start;
+  transform: translateY(-50%);
+}
+.twitter2 {
+  color: #fafafa;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 40.9802%;
+  top: 0;
+  height: 17px;
+  justify-content: center;
+  flex-direction: column;
+}
+.Fantum {
+  color: #737373;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -0.2489%;
+  top: 21px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+.logo {
+  position: absolute;
+  left: 6.7227%;
+  right: 76.4706%;
+  top: 16px;
+  height: 40px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.discord {
+  position: absolute;
+  left: 43.1135%;
+  right: 42.6448%;
+  top: 898px;
+  height: 77px;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: #4747474d;
+  backdrop-filter: blur(5px);
+}
+.text2 {
+  position: absolute;
+  left: 30.2521%;
+  right: 19.5706%;
+  top: calc(50% - -0.5px);
+  height: 36px;
+  align-items: flex-start;
+  transform: translateY(-50%);
+}
+.discord2 {
+  color: #fafafa;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 56.8389%;
+  top: 0;
+  height: 17px;
+  justify-content: center;
+  flex-direction: column;
+}
+.discordGgFantum {
+  color: #737373;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -0.1675%;
+  top: 21px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+.logo2 {
+  position: absolute;
+  left: 6.7227%;
+  right: 76.4706%;
+  top: 16px;
+  height: 40px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.youTube {
+  position: absolute;
+  left: 60.7062%;
+  right: 25.0521%;
+  top: 898px;
+  height: 77px;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: #4747474d;
+  backdrop-filter: blur(5px);
+}
+.text3 {
+  position: absolute;
+  left: 30.2521%;
+  right: 35.99%;
+  top: calc(50% - -0.5px);
+  height: 36px;
+  align-items: flex-start;
+  transform: translateY(-50%);
+}
+.youTube2 {
+  color: #fafafa;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 27.853%;
+  top: 0;
+  height: 17px;
+  justify-content: center;
+  flex-direction: column;
+}
+.Fantum2 {
+  color: #737373;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -0.2489%;
+  top: 21px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+.logo3 {
+  position: absolute;
+  left: 6.7227%;
+  right: 76.4706%;
+  top: 16px;
+  height: 40px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+._2023TodosOsDireitosReservados {
+  position: absolute;
+  left: 4.0625%;
+  right: 83.4375%;
+  top: 1009px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+.list {
+  font-size: 12px;
+}
+.list ::marker {
+  color: #737373;
+  font-size: 12px;
+  line-height: 15px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock {
+  color: #737373;
+  font-size: 12px;
+  line-height: 15px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.notAffiliatedWithMojangAB {
+  color: #737373;
+  font-size: 12px;
+  line-height: 15px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 82.9167%;
+  right: 2.6563%;
+  top: 1009px;
+  height: 15px;
+  text-align: end;
+  align-items: end;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle4 {
+  position: absolute;
+  left: 632px;
+  top: 0;
+  width: 656px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-image: linear-gradient(90deg, #e6b52e00 0%, #e6b52eff 52%, #e6b52e00 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.eNTRAR {
+  color: #cacaca;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 36.6146%;
+  right: 59.7753%;
+  top: calc(50% - 455.5162px);
+  height: 22.2581px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.fORUM {
+  color: #cacaca;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 43.296%;
+  right: 54.0638%;
+  top: calc(50% - 457px);
+  height: 22.2581px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.loja {
+  color: #cacaca;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 60.2481%;
+  right: 35.9542%;
+  top: calc(50% - 457.742px);
+  height: 22.2581px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.wIKI {
+  color: #cacaca;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 53.6744%;
+  right: 42.5279%;
+  top: calc(50% - 457.742px);
+  height: 22.2581px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.jOGAR {
+  color: #cacaca;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 49.0614%;
+  right: 48.5139%;
+  top: calc(50% - 458.4838px);
+  height: 19.2903px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
